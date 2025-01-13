@@ -1,4 +1,6 @@
 ## Hi there 👋
+# I am Newbie, 
+tutor dong puhh!!!
 
 ![](https://i.imgur.com/waxVImv.png)
 
