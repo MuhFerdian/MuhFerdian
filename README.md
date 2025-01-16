@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I am Newbie
 # It takes time to process
-tutor dong puhh!!!
+
 
 ![](https://i.imgur.com/waxVImv.png)
 
