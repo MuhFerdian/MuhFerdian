@@ -1,8 +1,8 @@
 ## Hi there 👋
 # I am Newbie 📍
 # It takes time to process 📍
-# Be your self and never surrender 📍
-💻
+# Be your self and never surrender 📍   
+💻🖱🔒
 ![](https://i.imgur.com/waxVImv.png)
 
 <!--
