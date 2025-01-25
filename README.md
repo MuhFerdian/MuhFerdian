@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 Feel free to reach out to me for any collaboration or discussion:
 
 - Email: ferdibaru.fb@gmail.com
-- LinkedIn: [linkedin.com/in/muh-masrukhin-ferdian-7b180730a(https://www.linkedin.com/in/muh-masrukhin-ferdian-7b180730a)
-- Twitter: [x.com/FerdianMuh1868)](https://x.com/FerdianMuh1868)
+- LinkedIn: [linkedin.com/in/muh-masrukhin-ferdian-7b180730a] (https://www.linkedin.com/in/muh-masrukhin-ferdian-7b180730a)
+- Twitter: [x.com/FerdianMuh1868] (https://x.com/FerdianMuh1868)
 
 Thanks for visiting my profile!
