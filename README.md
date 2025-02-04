@@ -38,12 +38,8 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 
 
 
-
-
-
-
 ---
-<!--
+
 ## 🌟 About Me
 
 - 💻 I’m currently working on various web development projects.
@@ -51,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 - 👯 I’m looking to collaborate on open source projects related to web development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile/) | [Twitter](https://twitter.com/your_profile)
 - ⚡ Fun fact: I love exploring new programming languages and frameworks.
--->
+
 
 ## 🛠️ Technologies and Tools
 
