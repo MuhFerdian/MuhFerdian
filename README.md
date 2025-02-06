@@ -44,16 +44,16 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 - 💻 I’m currently working on various web development projects.
 - 🌱 I’m currently learning **React**, **Node.js**, and **Python**.
 - 👯 I’m looking to collaborate on open source projects related to web development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile/) | [Twitter](https://twitter.com/your_profile)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muh-masrukhin-ferdian-7b180730a/) | [Twitter](https://twitter.com/FerdianMuh1868)
 - ⚡ Fun fact: I love exploring new programming languages and frameworks.
 
 
 ## 🛠️ Technologies and Tools
 
-- **Languages**: JavaScript, Python, HTML, CSS
+- **Languages**: Java, JavaScript, Python, HTML, CSS
 - **Frameworks**: React, Node.js, Express
 - **Databases**: MongoDB, MySQL
-- **Tools**: Git, Docker, VS Code
+- **Tools**: Git, Docker, VS Code, XAMPP
 
 ## 📈 GitHub Stats
 
