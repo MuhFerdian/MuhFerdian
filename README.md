@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 - **Languages**: Java, JavaScript, Python, HTML, CSS
 - **Frameworks**: React, Node.js, Express
 - **Databases**: MongoDB, MySQL
-- **Tools**: Git, Figma, VS Code, XAMPP
+- **Tools**: Git, Figma, VS Code, XAMPP, Netbeans
 
 ## 📈 GitHub Stats
 
