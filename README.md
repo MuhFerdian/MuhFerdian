@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile! I'm a passionate developer always eager to learn new technologies and contribute to exciting projects.
 -->
 
-<h1 align="center">Hi, I'm Muh Ferdian</h1>
+<h1 align="center">Hi, I'm Muh Ferdian 👋</h1>
 <h3 align="center">Full Stack Developer | UI/UX Design 🐧</h3>
 
 
