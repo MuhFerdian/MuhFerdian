@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 -->
 
 <h1 align="center">Hi, I'm Muh Ferdian 👋</h1>
-<h3 align="center">Full Stack Developer | UI/UX Design 🐧</h3>
+<h3 align="center">Full Stack Developer | Junior Web Development 🐧</h3>
 
 
 <div align="center">
