@@ -19,6 +19,11 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 <h1 align="center">Hi, I'm Muh Ferdian 👋</h1>
 <h3 align="center">Full Stack Developer | Red Onion Entrepreneur 🐧</h3>
 
+# Hi there 👋!
+<a align="left" href="https://git.io/typing-svg" style="color: red;">
+  <img src="https://readme-typing-svg.demolab.com?size=40&font=Fira+Code&duration=1000&pause=800&random=false&width=1000&height=100&lines=my+name+is+Muh+Masrukhin+Ferdian;nama+saya+Muh+Masrukhin+Ferdian" alt="Typing SVG" />
+</a>
+<h3 align="center">Full Stack Developer | Red Onion Entrepreneur 🐧</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
