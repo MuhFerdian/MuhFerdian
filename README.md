@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 
 # Hi there 👋!
 <a align="center" href="https://git.io/typing-svg" style="color: red;">
-  <img src="https://readme-typing-svg.demolab.com?size=40&font=Fira+Code&duration=1000&pause=800&random=false&width=1000&height=100&lines=my+name+is+Muh+Masrukhin+Ferdian;nama+saya+Muh+Masrukhin+Ferdian" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?size=30&font=Fira+Code&duration=1000&pause=800&random=false&width=1000&height=90&lines=my+name+is+Muh+Masrukhin+Ferdian;nama+saya+Muh+Masrukhin+Ferdian" alt="Typing SVG" />
 </a>
 <h3 align="center">Full Stack Developer | Red Onion Entrepreneur 🐧</h3>
 
