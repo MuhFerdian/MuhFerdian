@@ -1,49 +1,43 @@
 <!--
-## Hi there 👋
-# I am Newbie 📍
-# It takes time to process 📍
-# Be your self and never surrender 📍   
-💻🖱🔒
-![](https://i.imgur.com/waxVImv.png)
+# <div align="center">👋 Hi, I'm Andra! ✨👨‍💻</div>
 
-**MuhFerdian/MuhFerdian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD600&center=true&vCenter=true&width=450&lines=Backend+Developer+Extraordinaire;Software+Engineering+Student;Server-side+Architecture+Enthusiast;Always+Learning+%26+Building+New+Things;Gamers+and+Animanga+Lovers" alt="Typing SVG" />
+</div> 
 -->
 
-<!--
-# Hi there, I'm Ferdian 👋
+# <div align="center"> Hi there 👋!
 
-Welcome to my GitHub profile! I'm a passionate developer always eager to learn new technologies and contribute to exciting projects.
--->
-<!--
-<h1 align="center">Hi, I'm Muh Ferdian 👋</h1>
-<h3 align="center">Full Stack Developer | Red Onion Entrepreneur 🐧</h3> 
--->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1600&color=02B8F7&center=true&vCenter=true&width=450&lines=My+Name+is+Muh+Masrukhin+Ferdian;Nama+Saya+Muh+Masrukhin+Ferdian" alt="Typing SVG" />
+</div>
 
-# Hi there 👋!
-<a align="center" href="https://git.io/typing-svg" style="color: red;">
-  <img src="https://readme-typing-svg.demolab.com?size=30&font=Fira+Code&duration=1000&pause=800&random=false&width=1000&height=100&lines=My+Name+is+Muh+Masrukhin+Ferdian;Nama+Saya+Muh+Masrukhin+Ferdian" alt="Typing SVG" />
-</a>
-<h3 align="center">Full Stack Developer | Red Onion Entrepreneur 🐧</h3>
+<h3 align="center">Full Stack Developer | Red Onion Entrepreneur 👨‍💻</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/EndeavourOS-7C4DFF?style=for-the-badge&logo=arch-linux&logoColor=white" alt="EndeavourOS" />
-  <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" alt="Gentoo" />
-  <img src="https://img.shields.io/badge/Config_Master-FFD700?style=for-the-badge&logo=neovim&logoColor=black" alt="Config Master" />
-
+  <div align="center">
+  
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zH4VNCQB)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muh-masrukhin-ferdian-7b180730a/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhFerdian)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ffrrrr__/)
+  
+  </div>
 
   ![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
-</div>
-
+  
+  </div>
+<!--
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anharsaja&layout=compact&theme=dracula" />
 </p>
-
+-->
 
 ## 🌟 About Me
 
@@ -53,6 +47,12 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muh-masrukhin-ferdian-7b180730a/) | [Twitter](https://twitter.com/FerdianMuh1868)
 - ⚡ Fun fact: I love exploring new programming languages and frameworks.
 
+### 🚀 Quick Facts:
+- 🔥 Turning coffee into code since 2020 (awal nyoba html buat basenya jir wkwkkwk)
+- 🌐 Specialized in RESTful API development and server-side architecture (Amin)
+- 🛠️ Solving real-world problems through elegant backend solutions (Stress gw njir)
+- 📚 Always diving deeper into system design and performance optimization (frfr)
+- 🤝 Eager to collaborate on innovative projects that push boundaries (infokan)
 
 ## 🛠️ Technologies and Tools
 
@@ -78,4 +78,28 @@ Feel free to reach out to me for any collaboration or discussion:
 - LinkedIn: [https://www.linkedin.com/in/muh-masrukhin-ferdian-7b180730a]
 - Twitter: [https://x.com/FerdianMuh1868]
 
-Thanks for visiting my profile!
+## 🎁 Support My Work
+
+<div align="center">
+  <a href="https://saweria.co/MuhFerdian">
+    <img src="https://img.shields.io/badge/Saweria-FF3030?style=for-the-badge&logo=saweria&logoColor=white"/>
+  </a>
+</div>
+
+<!--
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhFerdian.MuhFerdian" alt="visitors">
+</div>
+-->
+<div align="center">
+  <i>✨ "It's not a bug – it's an undocumented feature." - ffrrrr__ ✨</i>
+</div>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/a5/5f/3a/a55f3a50c3e6737c179769f973315477.gif" width="400" />
+</div>
+
+<div align="center">
+  <i> © 2025 ffrrrr__. All Rights Reserved </i>
+</div>
+
