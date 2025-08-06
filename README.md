@@ -38,21 +38,25 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anharsaja&layout=compact&theme=dracula" />
 </p>
 -->
-
+<!--
 ## 🌟 About Me
-
 - 💻 I’m currently working on various web development projects.
 - 🌱 I’m currently learning **React**, **Node.js**, and **Python**.
 - 👯 I’m looking to collaborate on open source projects related to web development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muh-masrukhin-ferdian-7b180730a/) | [Twitter](https://twitter.com/FerdianMuh1868)
 - ⚡ Fun fact: I love exploring new programming languages and frameworks.
+-->
+
+## 👨‍💻 About Me <img align="right" width="180" src="https://media1.tenor.com/m/ZUu2eKdA8BwAAAAd/petting-shiroko-shiroko-fumo.gif" alt="anime gif" />
+
+  Saya mahasiswa Program Sarjana Terapan Teknik Informatika di Politeknik Negeri Jember. Yang memiliki ketertarikan dan semangat tinggi dalam pengembangan Full Stack Developer. Memiliki pemahaman yang kuat   dalam bahasa pemrograman, manajemen basis data, dan Microsoft Office.  Saya memiliki minat dalam membangun aplikasi web, mobile maupun desktop yang tidak hanya fungsional, tetapi juga memberikan user experience yang optimal. Saya siap untuk berkontribusi dalam dunia teknologi dan memberikan solusi digital inovatif yang mampu menjawab kebutuhan pengguna. Selalu berusaha memberikan solusi terbaik dalam setiap proyek yang saya kerjakan.
 
 ### 🚀 Quick Facts:
-- 🔥 Turning coffee into code since 2020 (awal nyoba html buat basenya jir wkwkkwk)
-- 🌐 Specialized in RESTful API development and server-side architecture (Amin)
-- 🛠️ Solving real-world problems through elegant backend solutions (Stress gw njir)
-- 📚 Always diving deeper into system design and performance optimization (frfr)
-- 🤝 Eager to collaborate on innovative projects that push boundaries (infokan)
+- 🔥 Turning coffee into code since 2020
+- 🌐 Specialized in RESTful API development and server-side architecture
+- 🛠️ Solving real-world problems through elegant backend solutions
+- 📚 Always diving deeper into system design and performance optimization
+- 🤝 Eager to collaborate on innovative projects that push boundaries
 
 ## 🛠️ Technologies and Tools
 
