@@ -49,7 +49,7 @@
 
 ## 👨‍💻 About Me <img align="right" width="180" src="https://media1.tenor.com/m/ZUu2eKdA8BwAAAAd/petting-shiroko-shiroko-fumo.gif" alt="anime gif" />
 
-  Saya mahasiswa Program Sarjana Terapan Teknik Informatika di Politeknik Negeri Jember. Yang memiliki ketertarikan dan semangat tinggi dalam pengembangan Full Stack Developer. Memiliki pemahaman yang kuat   dalam bahasa pemrograman, manajemen basis data, dan Microsoft Office.  Saya memiliki minat dalam membangun aplikasi web, mobile maupun desktop yang tidak hanya fungsional, tetapi juga memberikan user experience yang optimal. Saya siap untuk berkontribusi dalam dunia teknologi dan memberikan solusi digital inovatif yang mampu menjawab kebutuhan pengguna. Selalu berusaha memberikan solusi terbaik dalam setiap proyek yang saya kerjakan.
+   I am a student in the Applied Bachelor's Program in Informatics Engineering at Jember State Polytechnic. I have a strong interest and passion for developing as a Full Stack Developer. I have a solid understanding of programming languages, database management, and Microsoft Office. I am interested in building web, mobile, and desktop applications that are not only functional but also provide an optimal user experience. I am ready to contribute to the world of technology and provide innovative digital solutions that address user needs. I always strive to deliver the best solutions in every project I undertake.
 
 ### 🚀 Quick Facts:
 - 🔥 Turning coffee into code since 2020
