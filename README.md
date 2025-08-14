@@ -10,12 +10,12 @@
 </div> 
 -->
 
-# <div align="center"> Hi there 👋!
+# <div align="center"/> Hi there 👋!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1600&color=02B8F7&center=true&vCenter=true&width=450&lines=My+Name+is+Muh+Masrukhin+Ferdian;Nama+Saya+Muh+Masrukhin+Ferdian" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1600&color=02B8F7&center=true&vCenter=true&width=500&lines=My+Name+is+Muh+Masrukhin+Ferdian;Nama+Saya+Muh+Masrukhin+Ferdian"
+alt="Typing SVG"/>
 </div>
-
 <h3 align="center">Full Stack Developer | Red Onion Entrepreneur 👨‍💻</h3>
 
 <div align="center">
