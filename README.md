@@ -33,19 +33,7 @@ alt="Typing SVG"/>
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ffrrrr__/)
   
   </div>
-<!--
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anharsaja&layout=compact&theme=dracula" />
-</p>
--->
-<!--
-## 🌟 About Me
-- 💻 I’m currently working on various web development projects.
-- 🌱 I’m currently learning **React**, **Node.js**, and **Python**.
-- 👯 I’m looking to collaborate on open source projects related to web development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muh-masrukhin-ferdian-7b180730a/) | [Twitter](https://twitter.com/FerdianMuh1868)
-- ⚡ Fun fact: I love exploring new programming languages and frameworks.
--->
+
 
 ## 👨‍💻 About Me <img align="right" width="180" src="https://media1.tenor.com/m/ZUu2eKdA8BwAAAAd/petting-shiroko-shiroko-fumo.gif" alt="anime gif" />
 
