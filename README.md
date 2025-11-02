@@ -60,8 +60,8 @@ alt="Typing SVG"/>
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhFerdian&repo=your-repo-1&theme=radical)](https://github.com/MuhFerdian/my-alquran-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhFerdian&repo=your-repo-2&theme=radical)](https://github.com/MuhFerdian/cv-generator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhFerdian&repo=my-alquran-app&theme=radical)](https://github.com/MuhFerdian/my-alquran-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhFerdian&repo=cv-genetaror&theme=radical)](https://github.com/MuhFerdian/cv-generator)
 
 ## 📫 Contact Me!!!
 
