@@ -1,14 +1,3 @@
-<!--
-# <div align="center">👋 Hi, I'm Andra! ✨👨‍💻</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD600&center=true&vCenter=true&width=450&lines=Backend+Developer+Extraordinaire;Software+Engineering+Student;Server-side+Architecture+Enthusiast;Always+Learning+%26+Building+New+Things;Gamers+and+Animanga+Lovers" alt="Typing SVG" />
-</div> 
--->
 
 # <div align="center"/> Hi there 👋!
 
@@ -79,11 +68,6 @@ Feel free to reach out to me for any collaboration or discussion:
   </a>
 </div>
 
-<!--
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhFerdian.MuhFerdian" alt="visitors">
-</div>
--->
 <div align="center">
   <i>✨ "It's not a bug – it's an undocumented feature." - ffrrrr__ ✨</i>
 </div>
@@ -91,6 +75,10 @@ Feel free to reach out to me for any collaboration or discussion:
 <div align="center">
   <img src="https://i.pinimg.com/originals/a5/5f/3a/a55f3a50c3e6737c179769f973315477.gif" width="400" />
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=MuhFerdian&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhFerdian&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
   <i> © 2025 ffrrrr__. All Rights Reserved </i>
