@@ -45,7 +45,7 @@ alt="Typing SVG"/>
 
 ## 📈 GitHub Stats
 
-![Ferdian's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhFerdian&show_icons=true&theme=radical)
+![Ferdian's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhFerdian&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuhFerdian&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhFerdian&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
