@@ -46,6 +46,8 @@ alt="Typing SVG"/>
 ## 📈 GitHub Stats
 
 ![Ferdian's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhFerdian&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MuhFerdian&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhFerdian&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📌 Pinned Repositories
 
@@ -75,10 +77,6 @@ Feel free to reach out to me for any collaboration or discussion:
 <div align="center">
   <img src="https://i.pinimg.com/originals/a5/5f/3a/a55f3a50c3e6737c179769f973315477.gif" width="400" />
 </div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=MuhFerdian&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhFerdian&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
   <i> © 2025 ffrrrr__. All Rights Reserved </i>
