@@ -29,7 +29,7 @@ alt="Typing SVG"/>
    I am a student in the Applied Bachelor's Program in Informatics Engineering at Jember State Polytechnic. I have a strong interest and passion for developing as a Full Stack Developer. I have a solid understanding of programming languages, database management, and Microsoft Office. I am interested in building web, mobile, and desktop applications that are not only functional but also provide an optimal user experience. I am ready to contribute to the world of technology and provide innovative digital solutions that address user needs. I always strive to deliver the best solutions in every project I undertake.
 
 ### 🚀 Quick Facts:
-- 🔥 Turning coffee into code since 2020
+- 🔥 Turning coffee into code since 2024
 - 🌐 Specialized in RESTful API development and server-side architecture
 - 🛠️ Solving real-world problems through elegant backend solutions
 - 📚 Always diving deeper into system design and performance optimization
