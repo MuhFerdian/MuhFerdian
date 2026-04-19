@@ -41,12 +41,12 @@ alt="Typing SVG"/>
 - **Frameworks**: React, Node.js, Express
 - **Databases**: MongoDB, MySQL
 - **Tools**: Git, Figma, VS Code, Laragon, Netbeans
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,js,ts,react,nextjs,python,php,laravel,tailwind,bootstrap,nodejs,mysql,mongodb,firebase,supabase,postman,androidstudio,figma,vscode" />
-  <br/>
-  <img src="https://img.shields.io/badge/n8n-FF6B00?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laravel&logoColor=white" />
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,java,js,ts,react,nextjs,python,php,laravel,tailwind,bootstrap,nodejs,mysql,mongodb,firebase,supabase,postman,androidstudio,figma,vscode" />
+    <br/>
+    <img src="https://img.shields.io/badge/n8n-FF6B00?style=for-the-badge&logo=n8n&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laravel&logoColor=white" />
+  </p>
 
 ## 📈 GitHub Stats
 
