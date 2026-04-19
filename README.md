@@ -40,7 +40,7 @@ alt="Typing SVG"/>
 - **Languages**: Java, JavaScript, Python, HTML, CSS
 - **Frameworks**: React, Node.js, Express
 - **Databases**: MongoDB, MySQL
-- **Tools**: Git, Figma, VS Code, XAMPP, Netbeans
+- **Tools**: Git, Figma, VS Code, Laragon, Netbeans
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,java,js,ts,react,nextjs,python,php,laravel,tailwind,bootstrap,nodejs,mysql,mongodb,firebase,supabase,postman,androidstudio,figma,vscode" />
   <br/>
